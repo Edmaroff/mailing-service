@@ -1,0 +1,23 @@
+[
+    {
+        "model": "mailing.operatorcode",
+        "pk": 1,
+        "fields": {
+            "code": "951"
+        }
+    },
+    {
+        "model": "mailing.operatorcode",
+        "pk": 2,
+        "fields": {
+            "code": "952"
+        }
+    },
+    {
+        "model": "mailing.operatorcode",
+        "pk": 3,
+        "fields": {
+            "code": "953"
+        }
+    }
+]

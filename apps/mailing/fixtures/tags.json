@@ -1,0 +1,23 @@
+[
+    {
+        "model": "mailing.tag",
+        "pk": 1,
+        "fields": {
+            "name": "Junior"
+        }
+    },
+    {
+        "model": "mailing.tag",
+        "pk": 2,
+        "fields": {
+            "name": "Middle"
+        }
+    },
+    {
+        "model": "mailing.tag",
+        "pk": 3,
+        "fields": {
+            "name": "Senior"
+        }
+    }
+]

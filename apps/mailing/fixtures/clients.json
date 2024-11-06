@@ -1,0 +1,75 @@
+[
+    {
+        "model": "mailing.client",
+        "pk": 1,
+        "fields": {
+            "phone_number": "79510111111",
+            "operator_code": 1,
+            "tag": 1
+        }
+    },
+    {
+        "model": "mailing.client",
+        "pk": 2,
+        "fields": {
+            "phone_number": "79510222222",
+            "operator_code": 1,
+            "tag": 2
+        }
+    },
+    {
+        "model": "mailing.client",
+        "pk": 3,
+        "fields": {
+            "phone_number": "7951033333",
+            "operator_code": 1,
+            "tag": 3
+        }
+    },
+    {
+        "model": "mailing.client",
+        "pk": 4,
+        "fields": {
+            "phone_number": "79520444444",
+            "operator_code": 2,
+            "tag": 1
+        }
+    },
+    {
+        "model": "mailing.client",
+        "pk": 5,
+        "fields": {
+            "phone_number": "79520555555",
+            "operator_code": 2,
+            "tag": 2
+        }
+    },
+    {
+        "model": "mailing.client",
+        "pk": 6,
+        "fields": {
+            "phone_number": "79530666666",
+            "operator_code": 3,
+            "tag": 1
+        }
+    },
+    {
+        "model": "mailing.client",
+        "pk": 7,
+        "fields": {
+            "phone_number": "79530777777",
+            "operator_code": 3,
+            "tag": 2
+        }
+    },
+    {
+        "model": "mailing.client",
+        "pk": 8,
+        "fields": {
+            "phone_number": "79530888888",
+            "operator_code": 3,
+            "tag": 3
+        }
+    }
+]
+
